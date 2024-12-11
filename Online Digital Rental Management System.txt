@@ -1,0 +1,29 @@
+Online Digital Rental Management System
+
+In this project has two modules:
+
+ Admin
+ User
+
+Admin:
+ Login the account with the correct username and password
+ Add the products which is available for the rental services
+ View user order  and  delivery the products
+ View transaction details
+ Logout
+
+User:
+ Register the account with the basic information
+ Login the account with the correct credentials
+ View available produts
+ Make order with the payment
+ View status of the order
+ Logout
+
+
+Thankyou for Watching this video..
+by
+1CRORE PROJECTS...
+
+
+
