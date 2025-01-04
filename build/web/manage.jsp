@@ -87,7 +87,7 @@
                                                                                     <a href="edit.jsp?sno=<%=rs.getString("sno")%>"><img src="product/<%=rs.getString("image")%>"alt=" " style=" width:250px; height:250px; border: 2px solid  #000000; background-color: whitesmoke;"class="img-responsive" /></a>
                                                                                     
                                                                                         <p style="font-family: cursive; font-size:15px; font-weight: bold; color:  white;"><%=rs.getString("pname")%></p>
-											<h4 style="font-family: cursive; font-size:15px; font-weight: bold; color:  white;"> Rs.<%=rs.getString("cost")%>/kg</h4>
+											<h4 style="font-family: cursive; font-size:15px; font-weight: bold; color:  white;"> Rs.<%=rs.getString("cost")%>/Day</h4>
 										</div>
 										<div class="snipcart-details">
                                                                                     
